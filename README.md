@@ -1,3 +1,4 @@
-# solid.mit.edu
-Website for the Solid Project at MIT, [solid.mit.edu](https://solid.mit.edu/)
+# solid 项目中文网站
+
+Solid 中文网站：[learnsolid.cn](https://learnsolid.cn)
 
