@@ -337,17 +337,17 @@ a:before, a:after {
 #services p {
 	text-align: center;
 }
-#team {
+#team, #cnteam {
 	padding: 60px 0;
 }
-#team H4 {
+#team H4, #cnteam H4 {
 	padding-top: 10px;
 }
-#team p.large {
+#team p.large, #cnteam p.large  {
 	margin-top: 60px;
 	margin-bottom: 40px;
 }
-#team .fa {
+#team .fa, #team .fa {
 	width: 30px;
 	height: 30px;
 	margin: 0 3px;
@@ -360,7 +360,7 @@ a:before, a:after {
 	-moz-transition: all .3s;
 	transition: all .3s;
 }
-#team .fa:hover {
+#team .fa:hover,#cnteam .fa:hover {
 	background-color: #7c4dff;
 	color: #fff;
 }
